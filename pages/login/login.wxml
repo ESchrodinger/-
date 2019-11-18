@@ -1,0 +1,5 @@
+<view class="container">
+  <text>欢迎进入预约系统</text>
+  请输入用户名<input type="text" class="user" bindblur="getUser"></input>
+  请输入密码<input type="password" class="password" bindblur="getPassword"></input>
+</view>
